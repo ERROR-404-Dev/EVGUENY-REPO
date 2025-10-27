@@ -1,5 +1,0 @@
-#30132f - first color pallet
-#003050 - second color pallet
-#101e4b - third color pallet
-#0d1d3f - fourth color pallet
-#293275 - fiveth color pallet
